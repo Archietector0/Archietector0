@@ -1,5 +1,6 @@
-<p align="center">
-  <a href="https://profile.intra.42.fr/users/tbarth">
-    <img src="https://badge42.herokuapp.com/api/stats/tbarth?darkmode=true"/>
-  </a>
-</p>
+
+</p><!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archietector0&layout=compact)](https://github.com/Archietector0/github-readme-stats)
+
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Archietector0)](https://github.com/Archietector0/github-readme-stats)
